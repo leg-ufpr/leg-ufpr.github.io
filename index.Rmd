@@ -1,0 +1,21 @@
+---
+title: "LEG aulas"
+output:
+  html_document:
+    toc: false
+---
+
+[![Build Status](https://travis-ci.org/leg-ufpr/leg-ufpr.github.io.svg)](https://travis-ci.org/leg-ufpr/leg-ufpr.github.io)
+
+<!-- <div class="alert alert-danger" role="alert"> **ATENÇÃO!** As aulas serão no -->
+<!-- **Anfieatro 14** do Setor de Ciências Biológicas </div> -->
+
+# Repositório de aulas do LEG
+
+Nesta página estão listadas as disciplinas oferecidas pelos professores
+do [LEG][].
+
+
+
+
+[LEG]: http://www.leg.ufpr.br
