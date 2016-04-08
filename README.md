@@ -7,7 +7,7 @@
 Repositório criado para armazenar as páginas de aulas dos professores do
 LEG.
 
-Veja a página com as disciplinas disponíveis em http://aulas.leg.ufpr.br.
+Veja a página com as disciplinas disponíveis em http://cursos.leg.ufpr.br.
 
 O site é todo construído usando apenas o [R Markdown][], por isso, o
 código fonte está nos arquivos `Rmd`. Para gerar o site você precisará
